@@ -1,5 +1,5 @@
 ### Hi, My name is Jarod Christiansen
-I am a Full Stack Developer with knowledge in HTML, CSS, Javascript, Python, and Solidity. With extensive experience in Front End Development utilizing ReactJS and NextJS after study with Stephen Grider, Andrew Mead, and Andrei Neagoie.
+I am a Full Stack Developer with knowledge in HTML, CSS, Javascript, Python, and Solidity. With focused experience in Front End Development utilizing ReactJS and NextJS after study with Stephen Grider, Andrew Mead, and Andrei Neagoie.
 
 I have a background in design utilizing Figma, Lunacy, and Adobe XD which aides in my capacity to develop engaging user interfaces. My specialization is in data heavy applications featuring financial data, and realtime data visualizations. 
 
