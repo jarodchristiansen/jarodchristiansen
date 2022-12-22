@@ -10,9 +10,6 @@ Web3 Smart Contract development experience utilizing Solidity, Truffle, Ganache,
 🔭 I’m currently working on 
 HodlWatch NextJS application featuring financial, social, and on chain metrics for 5000+ digital assets. Allows community of users to explore data as well as share their favorite projects within their profile. 
 
-🌱 I’m currently learning
-Kubernetes to deploy microservices architectures via GCP/AWS
-
 👯 I’m looking to collaborate on
 Web3 projects, machine learning models, or full stack applications
  
