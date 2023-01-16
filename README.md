@@ -20,5 +20,5 @@ Feel free to email me at JarodChristiansenDevelopment@gmail.com
 I was a full time tattoo artist for 5 years before studying web development and design
 
 
-[![Jarod's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarodchristiansen&hide=contribs&theme=radical)](https://github.com/jarodchristiansen/github-readme-stats)
+<!-- [![Jarod's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarodchristiansen&hide=contribs&theme=radical)](https://github.com/jarodchristiansen/github-readme-stats) -->
 
