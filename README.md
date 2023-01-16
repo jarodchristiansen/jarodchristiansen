@@ -8,7 +8,7 @@ Experience in supervised machine learning and deep learning for time series fore
 Web3 Smart Contract development experience utilizing Solidity, Truffle, Ganache, and Remix editor. Smart Contract integration with Typescript
 
 🔭 I’m currently working on 
-HodlWatch NextJS application featuring financial, social, and on chain metrics for 5000+ digital assets. Allows community of users to explore data as well as share their favorite projects within their profile. 
+HodlWatch NextJS application featuring financial, social, and on chain metrics for 12,000+ digital assets. Allows community of users to explore data as well as share their favorite projects within their profile, and 30+ financial indicators utilizing Python services.
 
 👯 I’m looking to collaborate on
 Web3 projects, machine learning models, or full stack applications
