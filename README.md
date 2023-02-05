@@ -1,5 +1,5 @@
 ### Hi, My name is Jarod Christiansen
-I am a Software Engineer with knowledge in HTML, CSS, Javascript, TypeScript, NodeJS and Python. With specializing in frontend utilizing ReactJS and NextJS.
+I am a Software Engineer with knowledge in HTML, CSS, Javascript, TypeScript, NodeJS, Python, SQL, and Solidity. With specializing in frontend utilizing ReactJS and NextJS.
 
 I have a background in design utilizing Figma, Lunacy, and Adobe XD which aides in my capacity to develop engaging user interfaces. My specialization is in data heavy applications featuring financial data, and realtime data visualizations. 
 
