@@ -9,17 +9,12 @@ Experience in supervised machine learning and deep learning for time series fore
 🔭 I’m currently working on 
 Machine Learning & Deep Learning with a focus on Natural Language Processing & Computer Vision. 
 
-- MRI classification from BraTS 2021 dataset
-- Python Code Generator using Sequence to Sequence model created using transformers
-
-👯 I’m looking to collaborate on
-AI projects utilizing natural language processing, computer vision, or time series forecasting. Fullstack projects utilizing TypeScript, Python, PHP, or Go
+- Recommendation Engines
+- Time Series Forecasting
+- Tumor Detection Using YoloV9 Computer Vision Model
  
 📫 How to reach me:
 Feel free to email me at JarodChristiansenDevelopment@gmail.com
-
-⚡ Fun fact:
-I was a full time tattoo artist for 5 years before studying web development and design
 
 
 <!-- [![Jarod's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarodchristiansen&hide=contribs&theme=radical)](https://github.com/jarodchristiansen/github-readme-stats) -->
