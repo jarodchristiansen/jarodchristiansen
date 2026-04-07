@@ -29,7 +29,7 @@ I work at the intersection of **modern frontend engineering** and **AI/ML produc
 
 ## A Few Things Worth Knowing
 
-I didn't start in tech, I came up through design and SEO, which means I think about products from the user backward, not the stack forward. I've been building with ML/Python in parallel with production frontend work since 2021, which is unusual and occasionally very useful.
+I didn't start in tech; I came up through design and SEO, which means I think about products from the user backward, not the stack forward. I've been building with ML/Python in parallel with production frontend work since 2021, which is unusual and occasionally very useful.
 
 The work I care most about sits at the edge of what frontend engineering traditionally owns: search relevance, AI-augmented interfaces, and building elegant, frictionless user experiences.
 
@@ -49,7 +49,7 @@ The work I care most about sits at the edge of what frontend engineering traditi
 
 ## Let's Talk
 
-I'm currently open to **Senior Frontend** and **Senior Full-Stack** roles — particularly at companies where search, recommendations, or AI-powered product experiences are central, not an afterthought.
+I'm currently open to **Senior Frontend** and **Senior Full-Stack** roles; particularly at companies where elegant UIs, RAG, or AI-powered product experiences are central, not an afterthought.
 
 📧 &nbsp;jarodchristiansendevelopment@gmail.com  
 🌐 &nbsp;[jarod-christiansen.vercel.app](https://jarod-christiansen.vercel.app)  
