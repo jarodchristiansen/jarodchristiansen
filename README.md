@@ -2,8 +2,6 @@
 
 **Elegant, accessible user interfaces, and AI-powered product engineering**.
 
-Currently building large-scale search and multi-tenant marketplaces at [Storable](https://www.storable.com). I lead a 5-person engineering team and own the full stack from query architecture to UI.
-
 ---
 
 ## What I'm Building
