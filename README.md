@@ -37,7 +37,7 @@ The work I care most about sits at the edge of what frontend engineering traditi
 
 | Project | What It Does | Stack |
 |---|---|---|
-| [Recommendation Engine](https://github.com/jarodchristiansen/Recommendation-Engine-Frontend) | Semantic book discovery across 2.1M titles using vector embeddings | Next.js · TypeScript · Python |
+| [Book Recommendation Engine](https://github.com/jarodchristiansen/BookLook_Recommendation_Frontend) | Semantic book discovery across 2.1M titles using vector embeddings | Next.js · TypeScript · Python |
 | [hodlWatch](https://github.com/jarodchristiansen/hodlWatch) | Real-time crypto market analysis with financial indicators | Next.js · GraphQL · MongoDB · WebSocket |
 | [gymnosis](https://github.com/jarodchristiansen/gymnosis) | AI-powered gym management with OpenAI-generated workout plans | Next.js · OpenAI · MongoDB |
 | [Cognitive Framing Research](https://github.com/jarodchristiansen/cognitive_framing_research) | NLP system mapping how concepts are represented across media over time | Python · NLP · semantic analysis |
